@@ -151,7 +151,7 @@
                                 return (a = e.sent), (e.next = 7), a.json();
                               case 7:
                                 (r = e.sent),
-                                  console.log(r),
+                                  //console.log(r),
                                   this.setState({ images: r, loading: !1 });
                               case 10:
                               case "end":
@@ -211,7 +211,7 @@
                               case 10:
                                 if (
                                   ((s = e.sent),
-                                  console.log(s),
+                                  //console.log(s),
                                   s.results.length)
                                 ) {
                                   e.next = 14;
