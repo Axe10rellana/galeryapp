@@ -1,4 +1,4 @@
-#App de galeria de imagenes
+# App de galeria de imagenes
 
 Repositorio de aplicación de galeria de imagenes que utiliza la API de Unsplash
 
